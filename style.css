@@ -15,10 +15,11 @@ nav a {
 }
 
 main {
-    background-color: #fff;
-    padding: 25px;
-    border-radius: 50px;
-     margin-top: 20xp;
+    background-color: #bcdd60;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-top: 20px;
 }
 
 footer {
