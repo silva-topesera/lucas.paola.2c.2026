@@ -26,13 +26,10 @@ text-align: right;
 color: #666;
 }
 img {
-border-radius: 30px;
+    width: 400px;
+    border-radius: 30px;
 text-align: center;
-}
-
-article img, post img {
-  width: 100px;
-  height: auto;
-  display: block;
-  margin: center;
+margin: center;
+margin-left: auto;
+    margin-right: auto;
 }
